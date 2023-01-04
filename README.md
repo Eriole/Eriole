@@ -17,8 +17,12 @@ De plus, l'évolution étant limitée dans le métier de Technicienne Chimiste, 
 - Rigueur
 - Travail en équipe
 ## Formation
-### Depuis Nov 2022 : Human Booster - Développeur web et web mobile
-### Sept 2014 : Robert Gordon University, Aberdeen (Écosse) - BSc Forensic and Analytical Sciences
+**Depuis Nov 2022 : Human Booster - Développeur web et web mobile**
+
+**Sept 2014 : Robert Gordon University, Aberdeen (Écosse) - BSc Forensic and Analytical Sciences**
+
 Licence en Sciences analytiques et médico-légales
-### Sept 2013 : IUT Lyon 1, Villeurbanne (69) - DUT Chimie
+
+**Sept 2013 : IUT Lyon 1, Villeurbanne (69) - DUT Chimie**
+
 Option biologie : modules microbiologie, enzymologie
