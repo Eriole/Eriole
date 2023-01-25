@@ -1,32 +1,22 @@
 # Joanna PATHENAY
+🇫🇷
 Développeuse Web et Web Mobile en devenir !
 
-A la fin de mes études, en 2014, j'ai commencé à travailler comme Technicienne Chimiste. En raison de ma connaissance d'analyse en métaux lourds, je me suis spécialisée dans la préparation et l'analyse d'échantillons par ICP-AES ou ICP-MS selon des normes ou en méthode interne dans différents laboratoires de la région lyonnaise.
+J'ai été pendant plus de 7 ans Technicienne Chimiste dans différents laboratoires de la région lyonnaise. J'étais spécialisée dans la préparation et l'analyse de métaux lourds dans différents types d'échantillon.
+En 2022, j'ai décidé me reconvertir dans le développement web. Passionnée par l'informatique et amatrice de jeux vidéo, j'aime comprendre le fonctionnement des outils que j'utilise au quotidien, c'est donc tout naturellement que j'ai choisi de m'orienter vers les métiers de l'informatique.
 
-En 2022, j'ai décidé de quitter ce métier et de m'orienter vers un autre domaine qui m'intéresse : le développement web. Passionnée par l'informatique, souhaitant comprendre le fonctionnement des applications web et aimant créer, le métier de développeuse web me semble être le meilleur choix.
-De plus, l'évolution étant limitée dans le métier de Technicienne Chimiste, j'ai préféré aller vers un métier présentant plus de challenge et d'opportunités.
+J'ai commencé à apprendre les bases des langages de programmation (HTML, CSS et JavaScript) en auto-formation sur OpenClassroom ou W3Schools. En Novembre 2022, j'ai réussi à intégrer une formation pour devenir Développeuse Web et Web Mobile.
+
+Le programme de cette formation comprend l'apprentissage plus poussé des langages du web statique, JavaScript avec Angular mais aussi la maitrîse de PHP et Symfony. Egalement, cette formation prévoit un stage de fin d'études pour Septembre et Octobre 2023 afin de mettre en application les compétences acquises.
 
 ![Ca c'est moi](/img/PP.jpg)
----
-## Compétences
-- HTML et CSS
-- JavaScript
----
-## Soft skills
-- Organisation
-- Autonomie
-- Rigueur
-- Travail en équipe
----
-## Formation
-**Depuis Nov 2022 : Human Booster - Développeur web et web mobile**
 
+🇬🇧
+Soon to be Web and Web Mobile Developer !
 
-**Sept 2014 : Robert Gordon University, Aberdeen (Écosse) - BSc Forensic and Analytical Sciences**
+I was a Chemical Technician for more than 7 years in different laboratories in Lyon (France) area. I was specialised in the preparation and analysis of heavy metals in different types of samples.
+In 2022, I decided to move into web development. Passionate about computing and video games, I like to understand the functioning of the tools I use every day, so it is quite natural that I chose to go into web careers.
 
-Licence en Sciences analytiques et médico-légales
+I started learning the basics of programming languages (HTML, CSS and JavaScript) through self-training on OpenClassroom or W3Schools. In November 2022, I managed to join a training to become a Web and Mobile Web Developer.
 
-
-**Sept 2013 : IUT Lyon 1, Villeurbanne (69) - DUT Chimie**
-
-Option biologie : modules microbiologie, enzymologie
+The program of this training includes the more advanced learning of static web languages, JavaScript with Angular but also the mastery of PHP and Symfony. Also, this training includes an internship for September and October 2023 in order to apply the acquired skills.
